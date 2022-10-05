@@ -4,7 +4,7 @@
 A aplicação consiste em uma página de notificações, sobre ações que os usuários estão realizando.
 
 # Funcionalidades do Projeto
-- Ver todos os as notificações na página inicial
+- Ver todas as notificações na página inicial
 - Possibilidade de clicar sobre as notificações, alternando entre notificação lida ou notificação pendente.
 - Ver a quantidade de novas notificações.
 
